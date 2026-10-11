@@ -38,7 +38,7 @@ Edit freely. Tick things off, add dates and answers next to each item.
 
 - [ ] Blood pressure twice daily, seated 5 min, arm at heart level, two readings. Log with pain score and hours slept beside each.
 - [ ] Add an evening set of vitals. Symptoms peak after 17:30 and the chart stops there.
-- [ ] Record oxygen saturation at every reading. Missing from the 9 Oct chart.
+- [x] Record oxygen saturation at every reading. Being done since the evening of 9 Oct.
 - [ ] Measure both calves daily at the same point. Note any difference, warmth, redness.
 - [ ] Note bowel movements and rough fluid intake.
 - [ ] Two lines each night: what the legs felt like, hours slept.
@@ -71,7 +71,9 @@ Edit freely. Tick things off, add dates and answers next to each item.
 
 ## Done
 
-- [x] 9 Oct vitals chart reviewed: no fever, pulse never above 77, one BP spike to 149/96 that settled by afternoon. Reassuring. Oxygen not recorded.
+- [x] Vitals 2 to 10 Oct transcribed to `notes/vitals.csv` (54 readings, three nurses). Summary: mean 122/83, two readings at or above 140 systolic, nine at or above 90 diastolic, pulse 53 to 82, no fever (max 37.3), oxygen 98 to 99 where recorded. 10 Oct averaged 120/79 versus 128/85 on 9 Oct.
+- [x] 9 Oct vitals chart reviewed: no fever, pulse never above 77, one BP spike to 149/96 that settled by afternoon. Reassuring.
+- [x] Oxygen saturation now being recorded from the evening of 9 Oct.
 - [x] Discharge readiness checklist written (see chat, 7 Oct).
 - [x] Picture page "Where the Blood Is" published for family.
 
