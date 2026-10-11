@@ -1,8 +1,29 @@
 # Open tasks and questions
 
-Running list for Ashima's recovery. Bleed on 11 Sep 2026. VP shunt (Medtronic Strata, adjustable) placed early Oct, set 2.0 then 1.5. Home since 8 Oct.
+Running list for Ashima's recovery. Edit freely. Tick things off, add dates and answers next to each item.
 
-Edit freely. Tick things off, add dates and answers next to each item.
+## Timeline (corrected from the 2 Oct discharge summary)
+
+- 11 Sep: two days of headache and nausea, then BP about 250/160 at a clinic, collapse, GCS 3, intubated. Ruptured dissecting aneurysm, right vertebral V4, 5 by 10 mm. Coiled same day: sac and proximal V4 occluded, distal V4 kept because a small spinal branch arises there. Right frontal EVD placed.
+- 15 Sep: extubated.
+- Late Sep: transient right sixth nerve palsy with double vision, resolved by 2 Oct. MRI brain done, reported normal.
+- 24 to 26 Sep: EVD clamped 48 hours, pressure 1 to 2 cmH2O, CT stable. EVD removed 26 Sep. (A left frontal EVD is named on the 28 Sep CT, so the drain was likely replaced on the left before removal.)
+- 30 Sep: psychiatry review. Recent memory impaired, confabulation, remote memory good, no delirium, no psychosis, mood good.
+- 2 Oct: discharged home. Home nursing 24 h for 2 weeks.
+- About 4 to 5 Oct: readmitted (hydrocephalus recurred after the drain came out). VP shunt placed, Medtronic Strata, set 2.0 then 1.5.
+- About 8 Oct: discharged home again. The second discharge summary is not in hand.
+
+## Facts from the 2 Oct summary that change the plan
+
+- Essential hypertension is a listed diagnosis, and BP was 250/160 at the collapse. The 2 Oct medication list has no blood pressure tablet. She needs one unless the second discharge added it.
+- Atorvastatin 40 mg at night was prescribed. Statins commonly cause symmetrical calf and thigh aching, worse at night. This is a candidate cause of the calf pain.
+- Aspirin 100 mg daily was prescribed on the neurointerventional team's advice. An ICU note mentions a stent. Clarify whether a stent was placed, because that sets how long aspirin continues and affects any NSAID use.
+- Melatonin 6 mg at night and lactulose were already prescribed.
+- Sodium, potassium, magnesium and phosphate were all low at some point in the admission.
+- OT noted left-sided visual inattention on 30 Sep, improving with prompting.
+- 28 Sep CT: small unchanged area of low density in the left frontal lobe, along the drain track.
+- No air travel for at least 1 month from 2 Oct, pending clearance.
+- Follow-up arranged: neurosurgery 1 week, neurology 1 week, psychiatry 2 weeks, neurointerventional imaging as advised.
 
 ## Tests to request now (from 9 Oct review)
 
@@ -24,10 +45,11 @@ Edit freely. Tick things off, add dates and answers next to each item.
 
 ## Questions for the medical team
 
-- [ ] Blood pressure target and whether a daily tablet is needed. Guideline target around 130/80 long term.
-- [ ] Was she on a blood pressure tablet before the bleed? Was anything from hospital dropped at discharge?
+- [ ] Blood pressure tablet. She has documented essential hypertension and collapsed at 250/160. The 2 Oct list had none. Ask for one now, target around 130/80.
+- [ ] Is she still taking atorvastatin 40 mg? If yes, ask for a CK blood test and whether to pause or lower it given the nightly calf pain.
+- [ ] Is she still taking aspirin 100 mg? Was a stent placed at the coiling? How long does aspirin continue?
 - [ ] Is she on a beta-blocker? (resting pulse in the 50s on 9 Oct chart)
-- [ ] Ketorolac stop date (5-day limit). Stomach protector while on it.
+- [ ] Ketorolac stop date (5-day limit). Stomach protector while on it. Note aspirin plus an NSAID raises bleeding and stomach risk.
 - [ ] Planned bedtime analgesia rather than on-request, so pain does not wake her.
 - [ ] Low-dose nerve-pain tablet at night (gabapentin or pregabalin) if calves and sleep do not settle. Small dose, delirium must be clearing.
 - [ ] Compression stockings while mobility is reduced.
@@ -79,6 +101,13 @@ Edit freely. Tick things off, add dates and answers next to each item.
 
 ## Still missing from the record
 
-- 24 Sep CT report text (analysed in the desktop chat, never pasted here).
-- Shunt operation note and date.
-- Discharge summary and medication list.
+- The second discharge summary, from the shunt admission (about 4 to 8 Oct). This holds the current medication list and the operation note.
+- The MRI brain report from late September. The psychiatry note says it was normal; the report itself would confirm the cerebellum and show whether an angiogram sequence was included.
+- The 24 and 26 Sep CT reports (clamp trial baseline and the pre-removal scan).
+- The CT or scan that led to the readmission and shunt.
+
+## In hand
+
+- 2 Oct discharge summary, 16 pages, received 11 Oct.
+- CT 11 Sep, CTA 11 Sep, CT 14 Sep (two reports), CT 12 Sep and 28 Sep (inside the discharge summary).
+- Home vitals 2 to 10 Oct.
