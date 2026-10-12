@@ -1,0 +1,20 @@
+date,test,result,units,ref_range,flag,context
+2026-09-20,INR,1.23,ratio,0.80-1.20,high,inpatient
+2026-09-20,Prothrombin time,16.3,s,11-15.5,high,inpatient
+2026-10-04,White cell count,5.7,10^3/uL,4-11,,ED readmission
+2026-10-04,Haemoglobin,12.5,g/dL,11.5-16.0,,ED readmission
+2026-10-04,Haematocrit,35.6,%,31-42,,ED readmission
+2026-10-04,Platelets,308,10^3/uL,150-450,,ED readmission
+2026-10-04,Neutrophils,3.90,10^3/uL,1.90-8.20,,ED readmission
+2026-10-04,Lymphocytes,1.30,10^3/uL,1.10-3.10,,ED readmission
+2026-10-04,APTT,24.4,s,28.6-40.0,low,ED readmission; shortened
+2026-10-04,Prothrombin time,13.2,s,11-15.5,,ED readmission
+2026-10-04,INR,0.97,ratio,0.80-1.20,,ED readmission
+2026-10-11,Urine leucocyte esterase,Negative,,Negative,,urology outpatient
+2026-10-11,Urine nitrite,Negative,,Negative,,urology outpatient
+2026-10-11,Urine blood,Negative,,Negative,,urology outpatient
+2026-10-11,Urine protein,Negative,,Negative,,urology outpatient
+2026-10-11,Urine leucocytes microscopy,0-5,cell/HPF,0-5,,urology outpatient
+2026-10-11,Urine red cells microscopy,0-2,cell/HPF,0-2,,urology outpatient
+2026-10-11,Urine bacteria,Nil,,Nil,,urology outpatient
+2026-10-11,Urine specific gravity,1.009,,1.003-1.035,,urology outpatient; dilute
