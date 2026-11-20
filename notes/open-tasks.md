@@ -13,6 +13,17 @@ Running list for Ashima's recovery. Edit freely. Tick things off, add dates and 
 - 4 Oct: readmitted through the emergency department with worsening headache and intermittent confusion since 3 Oct. CT 08:26 and MRI 11:49 that morning: ventricles still dilated, posterior fossa normal, no acute infarct on diffusion, no new bleed, small right frontal scar along the old drain track. Blood count and clotting normal. VP shunt placed in this admission, Medtronic Strata, set 2.0 then 1.5.
 - About 8 Oct: discharged home again. The second discharge summary is not in hand.
 
+## 20 Nov neurosurgery letter (fitness to fly)
+
+- Dr Nisah, outpatient, 20 Nov 2026. States "satisfactory clinical and neurological recovery."
+- Diagnoses coded: aneurysmal SAH, communicating hydrocephalus, CSF drainage device in place.
+- Air travel deferred until at least three months after the bleed, so not before 11 Dec 2026, and only after a repeat MRI brain with contrast plus MR angiography is reviewed and shows stability.
+- Travel precautions: avoid strong magnets near the valve; tell airport security and show the shunt card; no magnetic devices over the valve in flight; valve setting checked after any MRI; any headache, nausea, vomiting, visual change, drowsiness, unsteadiness or new symptom after arrival needs immediate assessment including a valve check.
+- [ ] Get the MRI with contrast and MRA booked, ideally in the first week of December so clearance is possible soon after 11 Dec.
+- [ ] Valve setting to be read with the reader tool immediately after that MRI.
+- [ ] Ask for the written clearance letter after the scan review; airlines may ask for it dated within a few weeks of travel.
+- [ ] Carry on the trip: this letter, the shunt card, the medication list, and the imaging on a disc or USB.
+
 ## Facts from the 2 Oct summary that change the plan
 
 - Essential hypertension is a listed diagnosis, and BP was 250/160 at the collapse. The 2 Oct medication list has no blood pressure tablet. She needs one unless the second discharge added it.
